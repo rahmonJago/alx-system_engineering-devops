@@ -8,3 +8,4 @@ Task 4: Create a script that lists environment variables
 Task 5: Create a script that lists all local variables and environment variables, and functions
 Task 5: Create a script that creates a new local variable
 Task 5: Create a script that creates a new global variable
+Task 8: Scripts that perform addition operation
