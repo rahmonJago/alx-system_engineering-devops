@@ -9,3 +9,4 @@ Task 5: Create a script that lists all local variables and environment variables
 Task 5: Create a script that creates a new local variable
 Task 5: Create a script that creates a new global variable
 Task 8: Scripts that perform addition operation
+Task 9: Scripts that prints result of power divided by DIVIDE
