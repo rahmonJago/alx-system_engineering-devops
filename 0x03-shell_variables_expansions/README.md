@@ -11,3 +11,4 @@ Task 5: Create a script that creates a new global variable
 Task 8: Scripts that perform addition operation
 Task 9: Scripts that prints result of power divided by DIVIDE
 Task 10: script that displays the result of BREATH to the power LOVE
+Task 11: script that  converts a number from base 2 to base 10.
