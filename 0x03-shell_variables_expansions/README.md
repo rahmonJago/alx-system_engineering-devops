@@ -4,3 +4,4 @@ Task 2:Add /action to the PATH. /action
 Task 3: Create a script that counts the number of directories in the PATH
 Task 3: Create a script that counts the number of directories in the PATH
 Task 3: Create a script that counts the number of directories in the PATH
+Task 4: Create a script that lists environment variables
